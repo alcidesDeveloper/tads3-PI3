@@ -15,9 +15,9 @@ public class NewClass {
     
     public static void main(String[] args){
         
-        Scanner ler = new Scanner(System.in);
-        System.out.println("Hi! \nwhats your name: ");
-        ler.next();
+   
+        System.out.println("I have a reservation: ");
+      
         
     }
 }

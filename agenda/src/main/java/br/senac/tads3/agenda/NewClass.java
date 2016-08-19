@@ -17,7 +17,6 @@ public class NewClass {
         
    
         System.out.println("I have a reservation: ");
-      
-        
+              
     }
 }
